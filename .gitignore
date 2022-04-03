@@ -1,0 +1,6 @@
+src/
+node_modules/
+build/css/app.css
+package.json
+pacjage-lock.json
+gulpfile.js
